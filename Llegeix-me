@@ -1,0 +1,21 @@
+- 1
+    git branch branca00
+
+- 5
+    git status
+    git log
+
+ -  6
+    No es pot veure ja qe el fitxer que esta a la branca main no li haviem afeigt la darrera linia
+ -  7
+    Si que es pot veure ja que el fitxer esta a la branca00 on he realitzat la modficacio
+-  10
+    git merge branca00
+-  12
+    git push origin main
+-  12(c)
+    Perquè la branca00 ha sigut fusionada amb la branca main i son iguals
+-  14(a)
+    git push origin branca01
+-  14(c)
+    A un ja que tots els canvis que habiem fet a la branca00 ja estan a la branca main desde el merge 
